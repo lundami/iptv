@@ -1,0 +1,1093 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="053a0402cd6faaf8213dac33a0d7d3f0" tvg-chno="1",广东珠江高清
+http://192.168.100.1:4022/rtp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="c8bf387b1824053bdb0423ef806a2227" tvg-chno="2",广东卫视
+http://192.168.100.1:4022/rtp/239.77.0.2:5146
+#EXTINF:-1 tvg-id="b66feca3d096e80c29170d88402f07b6" tvg-chno="3",广东珠江
+http://192.168.100.1:4022/rtp/239.77.0.3:5146
+#EXTINF:-1 tvg-id="3f2a3683ceadab44ffa533a719f71401" tvg-chno="4",广东新闻
+http://192.168.100.1:4022/rtp/239.77.0.4:5146
+#EXTINF:-1 tvg-id="52fd013e40713e541ec872f145f15eca" tvg-chno="5",广东公共
+http://192.168.100.1:4022/rtp/239.77.0.5:5146
+#EXTINF:-1 tvg-id="6584f926271fd8e9105ac8e2583bc052" tvg-chno="6",广东体育
+http://192.168.100.1:4022/rtp/239.77.0.6:5146
+#EXTINF:-1 tvg-id="abedd9bb620b514f4f9f0acca27acd01" tvg-chno="8",广东经视
+http://192.168.100.1:4022/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-id="820626d82057250f41811fbf69fb9541" tvg-chno="9",广东大湾区卫视
+http://192.168.100.1:4022/rtp/239.77.0.9:5146
+#EXTINF:-1 tvg-id="dc5e57459f1c3ce91a55ddb1cf71b3ba" tvg-chno="10",延边卫视
+http://192.168.100.1:4022/rtp/239.77.0.10:5146
+#EXTINF:-1 tvg-id="59803c56b2b3f2297ec7e9f610adba60" tvg-chno="11",广东影视
+http://192.168.100.1:4022/rtp/239.77.0.11:5146
+#EXTINF:-1 tvg-id="3660f9732ad8691c36c7bd6ae9e2c0ba" tvg-chno="12",广东少儿
+http://192.168.100.1:4022/rtp/239.77.0.12:5146
+#EXTINF:-1 tvg-id="dcf8d74481da009f2bd54465d89376e4" tvg-chno="13",广东卡通
+http://192.168.100.1:4022/rtp/239.77.0.13:5146
+#EXTINF:-1 tvg-id="6ef1801f9a11bbeab1955ccf26442bd6" tvg-chno="14",广东房产
+http://192.168.100.1:4022/rtp/239.77.0.14:5146
+#EXTINF:-1 tvg-id="2ea3a342cd2d52b8be6d3124b71ec8f2" tvg-chno="15",湖南茶频道高清
+http://192.168.100.1:4022/rtp/239.77.0.15:5146
+#EXTINF:-1 tvg-id="02abe1071a1f39f673fcb3447e24af47" tvg-chno="16",广东戏曲
+http://192.168.100.1:4022/rtp/239.77.0.16:5146
+#EXTINF:-1 tvg-id="b1a146b9601eebf61bc8f510e33fa7a8" tvg-chno="17",河南卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="0221328c89cdcefd5d864528df6146df" tvg-chno="18",广东教育
+http://192.168.100.1:4022/rtp/239.77.0.18:5146
+#EXTINF:-1 tvg-id="7f6a3b97873c23943416205769e89ff1" tvg-chno="19",广东购物
+http://192.168.100.1:4022/rtp/239.77.0.19:5146
+#EXTINF:-1 tvg-id="f2e1c376b1cc345b0c5233e5f0ec48c0" tvg-chno="20",广东移动
+http://192.168.100.1:4022/rtp/239.77.0.20:5146
+#EXTINF:-1 tvg-id="cd8beacae92e5a19670d49e4b316dfec" tvg-chno="21",求索纪录高清
+http://192.168.100.1:4022/rtp/239.77.0.21:5146
+#EXTINF:-1 tvg-id="303c9c6ef6100971cef12f24aa727230" tvg-chno="22",广东购物高清
+http://192.168.100.1:4022/rtp/239.77.0.22:5146
+#EXTINF:-1 tvg-id="7687af83500f75c9a525a35169e57579" tvg-chno="25",汕尾综合高清
+http://192.168.100.1:4022/rtp/239.77.0.25:5146
+#EXTINF:-1 tvg-id="65d511085b03157981363729dbf2278a" tvg-chno="27",CHC高清电影
+http://192.168.100.1:4022/rtp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="b0a901eb787416007cf5cbb79ce009ab" tvg-chno="28",中国教育2
+http://192.168.100.1:4022/rtp/239.77.0.28:5146
+#EXTINF:-1 tvg-id="1d56a6be10c70e74b330641fce34ed60" tvg-chno="29",中国教育4
+http://192.168.100.1:4022/rtp/239.77.0.29:5146
+#EXTINF:-1 tvg-id="67a7bc2b6a4b158bc327422132ccf73d" tvg-chno="30",央视综合
+http://192.168.100.1:4022/rtp/239.77.0.30:5146
+#EXTINF:-1 tvg-id="1080fe434ef88433087c70ce8ef35489" tvg-chno="31",央视财经
+http://192.168.100.1:4022/rtp/239.77.0.31:5146
+#EXTINF:-1 tvg-id="77b3592a9516edae7802ef116cf6979e" tvg-chno="32",央视综艺
+http://192.168.100.1:4022/rtp/239.77.0.32:5146
+#EXTINF:-1 tvg-id="fb4e198fcd2de1e659c33e4bf2e7932a" tvg-chno="33",央视中文国际
+http://192.168.100.1:4022/rtp/239.77.0.33:5146
+#EXTINF:-1 tvg-id="78900259a93847c70c177ca881334f23" tvg-chno="34",央视体育
+http://192.168.100.1:4022/rtp/239.77.0.34:5146
+#EXTINF:-1 tvg-id="a142557f77f3814cea1e440f27e76974" tvg-chno="35",央视电影
+http://192.168.100.1:4022/rtp/239.77.0.35:5146
+#EXTINF:-1 tvg-id="4a4be6d0c154f477637136646671f57f" tvg-chno="36",央视国防
+http://192.168.100.1:4022/rtp/239.77.0.36:5146
+#EXTINF:-1 tvg-id="57dc5429ef447a087a5b1ab59fe8610a" tvg-chno="37",央视电视剧
+http://192.168.100.1:4022/rtp/239.77.0.37:5146
+#EXTINF:-1 tvg-id="e15cd62d44d396148cff29331b745092" tvg-chno="38",央视纪录
+http://192.168.100.1:4022/rtp/239.77.0.38:5146
+#EXTINF:-1 tvg-id="956d9f4014b12ec65c5a8bef2b8aaa20" tvg-chno="39",央视科教
+http://192.168.100.1:4022/rtp/239.77.0.39:5146
+#EXTINF:-1 tvg-id="6415c6a6ca520c29573ff845e2cb1cea" tvg-chno="40",央视戏曲
+http://192.168.100.1:4022/rtp/239.77.0.40:5146
+#EXTINF:-1 tvg-id="3e64e10e162c34073974af80d50c36ae" tvg-chno="41",央视社会
+http://192.168.100.1:4022/rtp/239.77.0.41:5146
+#EXTINF:-1 tvg-id="26ef70172790ae7a0a13ee442a33118d" tvg-chno="42",央视新闻
+http://192.168.100.1:4022/rtp/239.77.0.42:5146
+#EXTINF:-1 tvg-id="1bf026e4e10525c0c60ba7b5cb8418f2" tvg-chno="43",央视少儿
+http://192.168.100.1:4022/rtp/239.77.0.43:5146
+#EXTINF:-1 tvg-id="454637d7597887acf7b056899b882795" tvg-chno="44",央视音乐
+http://192.168.100.1:4022/rtp/239.77.0.44:5146
+#EXTINF:-1 tvg-id="0e44fd230b7881f6219f55f52f7b04dc" tvg-chno="45",央视英闻
+http://192.168.100.1:4022/rtp/239.77.0.45:5146
+#EXTINF:-1 tvg-id="c39a7a374d888bce3912df71bcb0d580" tvg-chno="46",湖南卫视
+http://192.168.100.1:4022/rtp/239.77.0.46:5146
+#EXTINF:-1 tvg-id="590e187a8799b1890175d25ec85ea352" tvg-chno="47",浙江卫视
+http://192.168.100.1:4022/rtp/239.77.0.47:5146
+#EXTINF:-1 tvg-id="322fa7b66243b8d0edef9d761a42f263" tvg-chno="48",江苏卫视
+http://192.168.100.1:4022/rtp/239.77.0.48:5146
+#EXTINF:-1 tvg-id="b0977d8b1d2a989a7177d9f6b6ff16e7" tvg-chno="49",东方卫视
+http://192.168.100.1:4022/rtp/239.77.0.49:5146
+#EXTINF:-1 tvg-id="5b0447ba48dbb6be1c286bab83f77e39" tvg-chno="50",安徽卫视
+http://192.168.100.1:4022/rtp/239.77.0.50:5146
+#EXTINF:-1 tvg-id="db47125bc6c697e608358a9dfbf95f82" tvg-chno="51",北京卫视
+http://192.168.100.1:4022/rtp/239.77.0.51:5146
+#EXTINF:-1 tvg-id="5927c7a6dd31f38686fafa073e2e13bc" tvg-chno="52",天津卫视
+http://192.168.100.1:4022/rtp/239.77.0.52:5146
+#EXTINF:-1 tvg-id="28502a1b6bf5fbe7c6da9241db596237" tvg-chno="53",山东卫视
+http://192.168.100.1:4022/rtp/239.77.0.53:5146
+#EXTINF:-1 tvg-id="535765a19ab55a12bbf64a1e98ae97dd" tvg-chno="54",江西卫视
+http://192.168.100.1:4022/rtp/239.77.0.54:5146
+#EXTINF:-1 tvg-id="20831bb807a45638cfaf81df1122024d" tvg-chno="55",深圳卫视
+http://192.168.100.1:4022/rtp/239.77.0.55:5146
+#EXTINF:-1 tvg-id="55fc65ef82e92d0e1ccb2b3f200a7529" tvg-chno="56",湖北卫视
+http://192.168.100.1:4022/rtp/239.77.0.56:5146
+#EXTINF:-1 tvg-id="9291c40ec1cec1281638720c74c7245f" tvg-chno="57",辽宁卫视
+http://192.168.100.1:4022/rtp/239.77.0.57:5146
+#EXTINF:-1 tvg-id="1ce026a774dba0d13dc0cef453248fb7" tvg-chno="58",黑龙江卫视
+http://192.168.100.1:4022/rtp/239.77.0.58:5146
+#EXTINF:-1 tvg-id="5a7d01661b5d9c64293860531374312b" tvg-chno="59",贵州卫视
+http://192.168.100.1:4022/rtp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="b82fa4086c9a2c9442279efbb80cce31" tvg-chno="60",四川卫视
+http://192.168.100.1:4022/rtp/239.77.0.60:5146
+#EXTINF:-1 tvg-id="2c854868563485135dd486801057dd6e" tvg-chno="61",河南卫视
+http://192.168.100.1:4022/rtp/239.77.0.61:5146
+#EXTINF:-1 tvg-id="c786da29f0f5cc5973444e3ad49413a6" tvg-chno="62",云南卫视
+http://192.168.100.1:4022/rtp/239.77.0.62:5146
+#EXTINF:-1 tvg-id="5731a167d79c432575056c4963dc8049" tvg-chno="63",重庆卫视
+http://192.168.100.1:4022/rtp/239.77.0.63:5146
+#EXTINF:-1 tvg-id="ef1fce69a9e1b3a587ca734302400107" tvg-chno="64",河北卫视
+http://192.168.100.1:4022/rtp/239.77.0.64:5146
+#EXTINF:-1 tvg-id="0b54da973aaa9d57361846b14cd7da3e" tvg-chno="65",东南卫视
+http://192.168.100.1:4022/rtp/239.77.0.65:5146
+#EXTINF:-1 tvg-id="5cbb108dbf59f2ae1849ec8d1126d1a5" tvg-chno="66",广西卫视
+http://192.168.100.1:4022/rtp/239.77.0.66:5146
+#EXTINF:-1 tvg-id="45392a8be644f5b8903838436870c75d" tvg-chno="67",吉林卫视
+http://192.168.100.1:4022/rtp/239.77.0.67:5146
+#EXTINF:-1 tvg-id="eb7330e363ceec8c6895eacc44a1a804" tvg-chno="68",陕西卫视
+http://192.168.100.1:4022/rtp/239.77.0.68:5146
+#EXTINF:-1 tvg-id="2aeb585ccaca9fa893b0bdfdbc098c7f" tvg-chno="69",山西卫视
+http://192.168.100.1:4022/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="03295de404257fa9653b89bf2d0e47ac" tvg-chno="70",内蒙古卫视
+http://192.168.100.1:4022/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="4ec095f1d2564f82341275fff64edb5a" tvg-chno="71",青海卫视
+http://192.168.100.1:4022/rtp/239.77.0.71:5146
+#EXTINF:-1 tvg-id="c0fc93e34943ad854b923c031d24bd39" tvg-chno="72",海南卫视
+http://192.168.100.1:4022/rtp/239.77.0.72:5146
+#EXTINF:-1 tvg-id="a09ab19928a6b2bd616f7e2eba1056ee" tvg-chno="73",宁夏卫视
+http://192.168.100.1:4022/rtp/239.77.0.73:5146
+#EXTINF:-1 tvg-id="feccf21eb7e50753355efdab2d54d9e8" tvg-chno="74",西藏卫视
+http://192.168.100.1:4022/rtp/239.77.0.74:5146
+#EXTINF:-1 tvg-id="ad291a233f1fd3f24332e41461798a25" tvg-chno="75",新疆卫视
+http://192.168.100.1:4022/rtp/239.77.0.75:5146
+#EXTINF:-1 tvg-id="5ace8ddc54a4151bbcf76e56c8aa582a" tvg-chno="76",甘肃卫视
+http://192.168.100.1:4022/rtp/239.77.0.76:5146
+#EXTINF:-1 tvg-id="5ec2992011cb16a9ca85c84e41b05b8b" tvg-chno="77",兵团卫视
+http://192.168.100.1:4022/rtp/239.77.0.77:5146
+#EXTINF:-1 tvg-id="447d48f2bad8325ff6bc2bc522862077" tvg-chno="78",央视中文国际高清
+http://192.168.100.1:4022/rtp/239.77.0.78:5146
+#EXTINF:-1 tvg-id="b0a1626de6ba6468ae40905367d8f93a" tvg-chno="79",北京卡酷
+http://192.168.100.1:4022/rtp/239.77.0.79:5146
+#EXTINF:-1 tvg-id="5833ab691e9d2b329d23531d39970614" tvg-chno="80",金鹰卡通
+http://192.168.100.1:4022/rtp/239.77.0.80:5146
+#EXTINF:-1 tvg-id="df5481d4c177b0376e10a0142d608ccd" tvg-chno="81",哈哈炫动
+http://192.168.100.1:4022/rtp/239.77.0.81:5146
+#EXTINF:-1 tvg-id="ffa067dc1f3d5dc397e821c9d7005b7f" tvg-chno="82",中国教育1
+http://192.168.100.1:4022/rtp/239.77.0.82:5146
+#EXTINF:-1 tvg-id="57ed30cc494fe7ea4d297de2b8c07b27" tvg-chno="83",山东教育
+http://192.168.100.1:4022/rtp/239.77.0.83:5146
+#EXTINF:-1 tvg-id="aa3c14340c66b25ecb9b7107384e4820" tvg-chno="84",广东卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="ba7968a30a8e39c0bc46374f30290e73" tvg-chno="85",广东经视高清
+http://192.168.100.1:4022/rtp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="1349b931cc618bc3dbc8f7c2b9cd3b7c" tvg-chno="86",央视综合高清
+http://192.168.100.1:4022/rtp/239.77.0.86:5146
+#EXTINF:-1 tvg-id="c614bb121f9f0ec7f75e1c77c1eedee8" tvg-chno="87",央视赛事高清
+http://192.168.100.1:4022/rtp/239.77.0.87:5146
+#EXTINF:-1 tvg-id="344643c90c852a824d6b38952179ac85" tvg-chno="88",湖南卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.88:5146
+#EXTINF:-1 tvg-id="672f3109c1beeabcd34d4cc6c39806c2" tvg-chno="89",浙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="8920bcf46a5daddf6ae1305566c80df6" tvg-chno="90",江苏卫视卫视
+http://192.168.100.1:4022/rtp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="4902a7edc6d01498783252eab1ae4cb3" tvg-chno="91",北京卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.91:5146
+#EXTINF:-1 tvg-id="87ee8394d5c001fb06c2bcff1b21006b" tvg-chno="92",深圳卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.92:5146
+#EXTINF:-1 tvg-id="6c99c0186db94ab35767054fc7f1b2cc" tvg-chno="93",黑龙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.93:5146
+#EXTINF:-1 tvg-id="093aa2690f20760702b729defa072ff9" tvg-chno="94",山东卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.94:5146
+#EXTINF:-1 tvg-id="3e15c1a3e1a4c1129d60f9746b0e6dee" tvg-chno="95",湖北卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.95:5146
+#EXTINF:-1 tvg-id="6519e05b08f08a507a3bd4ea71df8053" tvg-chno="96",厦门卫视
+http://192.168.100.1:4022/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="aee4f0ccf074c96b1f6fe6cede8f4283" tvg-chno="97",天津卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.97:5146
+#EXTINF:-1 tvg-id="9d27639746a9b041cc769fadd960bc74" tvg-chno="98",东方卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.98:5146
+#EXTINF:-1 tvg-id="dfa8e7c78fd8f0b1397006acb27e7c41" tvg-chno="99",IPTV谍战剧场
+http://192.168.100.1:4022/rtp/239.77.0.99:5146
+#EXTINF:-1 tvg-id="798d84b42f03ad420fc79a3fbe41c554" tvg-chno="100",IPTV相声小品
+http://192.168.100.1:4022/rtp/239.77.0.100:5146
+#EXTINF:-1 tvg-id="b2ae87be27888e9ba736d0abc2e87e2d" tvg-chno="101",IPTV野外
+http://192.168.100.1:4022/rtp/239.77.0.101:5146
+#EXTINF:-1 tvg-id="d62dda7092b9d64af6fb292753eea70a" tvg-chno="102",IPTV法治
+http://192.168.100.1:4022/rtp/239.77.0.102:5146
+#EXTINF:-1 tvg-id="040a9029118b5520b547b74340fae3f6" tvg-chno="103",IPTV6+
+http://192.168.100.1:4022/rtp/239.77.0.103:5146
+#EXTINF:-1 tvg-id="a69ba60abc02a1f078371cec5bf33eaa" tvg-chno="104",IPTV经典电影
+http://192.168.100.1:4022/rtp/239.77.0.104:5146
+#EXTINF:-1 tvg-id="b209854b7b597d49224ec883416bb154" tvg-chno="105",IPTV8+
+http://192.168.100.1:4022/rtp/239.77.0.105:5146
+#EXTINF:-1 tvg-id="ea426a9c13a2c5f111dcbd826d2d4b24" tvg-chno="106",IPTV热播剧场
+http://192.168.100.1:4022/rtp/239.77.0.106:5146
+#EXTINF:-1 tvg-id="b3a0e2cc18ab8af618210e99d639caa3" tvg-chno="107",IPTV3+
+http://192.168.100.1:4022/rtp/239.77.0.107:5146
+#EXTINF:-1 tvg-id="d393d645088e30f9825051224c86d0bc" tvg-chno="108",IPTV5+
+http://192.168.100.1:4022/rtp/239.77.0.108:5146
+#EXTINF:-1 tvg-id="de11d54b13cea27553fbb87af9c250ad" tvg-chno="109",IPTV少儿动画
+http://192.168.100.1:4022/rtp/239.77.0.109:5146
+#EXTINF:-1 tvg-id="53baaacc5986c428cf023883d5a43af4" tvg-chno="110",IPTV魅力时尚
+http://192.168.100.1:4022/rtp/239.77.0.110:5146
+#EXTINF:-1 tvg-id="5d9604c74f9db1ac4f74a550ea4b4ca6" tvg-chno="111",IPTV收视指南
+http://192.168.100.1:4022/rtp/239.77.0.111:5146
+#EXTINF:-1 tvg-id="468330f223a059917250c0d34eb044ab" tvg-chno="112",广东体育高清
+http://192.168.100.1:4022/rtp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="ae50edba97bb529b7d297d703c5cf0d4" tvg-chno="113",财富天下
+http://192.168.100.1:4022/rtp/239.77.0.113:5146
+#EXTINF:-1 tvg-id="053a0402cd6faaf8213dac33a0d7d3f0" tvg-chno="114",广东珠江高清
+http://192.168.100.1:4022/rtp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="7ab06a62d6f45b429bb23f64edab8951" tvg-chno="115",央视农业
+http://192.168.100.1:4022/rtp/239.77.0.115:5146
+#EXTINF:-1 tvg-id="5ad0bf51e4e66203366fc0d95a098977" tvg-chno="116",韶关综合
+http://192.168.100.1:4022/rtp/239.77.0.116:5146
+#EXTINF:-1 tvg-id="6ac591dbdc0229fcdd0e49bd0ec37d89" tvg-chno="117",韶关综合高清
+http://192.168.100.1:4022/rtp/239.77.0.117:5146
+#EXTINF:-1 tvg-id="df57dc8a4fc2071c514bc221826b7d56" tvg-chno="118",韶关生活
+http://192.168.100.1:4022/rtp/239.77.0.118:5146
+#EXTINF:-1 tvg-id="5f6bb74e60a2f68241688fe5408ae02e" tvg-chno="119",韶关生活高清
+http://192.168.100.1:4022/rtp/239.77.0.119:5146
+#EXTINF:-1 tvg-id="066413be92e08f04418524d6ded0dee1" tvg-chno="120",湛江综合
+http://192.168.100.1:4022/rtp/239.77.0.120:5146
+#EXTINF:-1 tvg-id="9843652da4affc000509f2b5714582cd" tvg-chno="121",湛江公共
+http://192.168.100.1:4022/rtp/239.77.0.121:5146
+#EXTINF:-1 tvg-id="20c6d2e33ac7841f4d621c431a514f26" tvg-chno="123",辽宁卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.123:5146
+#EXTINF:-1 tvg-id="6c99c0186db94ab35767054fc7f1b2cc" tvg-chno="124",黑龙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.124:5146
+#EXTINF:-1 tvg-id="672f3109c1beeabcd34d4cc6c39806c2" tvg-chno="125",浙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.125:5146
+#EXTINF:-1 tvg-id="7f7a20d2f4b6d9d53df600407200b1fc" tvg-chno="126",江苏卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.126:5146
+#EXTINF:-1 tvg-id="344643c90c852a824d6b38952179ac85" tvg-chno="127",湖南卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.127:5146
+#EXTINF:-1 tvg-id="3e15c1a3e1a4c1129d60f9746b0e6dee" tvg-chno="128",湖北卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.128:5146
+#EXTINF:-1 tvg-id="1349b931cc618bc3dbc8f7c2b9cd3b7c" tvg-chno="129",央视综合高清
+http://192.168.100.1:4022/rtp/239.77.0.129:5146
+#EXTINF:-1 tvg-id="87ee8394d5c001fb06c2bcff1b21006b" tvg-chno="130",深圳卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.130:5146
+#EXTINF:-1 tvg-id="aee4f0ccf074c96b1f6fe6cede8f4283" tvg-chno="131",天津卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.131:5146
+#EXTINF:-1 tvg-id="093aa2690f20760702b729defa072ff9" tvg-chno="132",山东卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.132:5146
+#EXTINF:-1 tvg-id="88c5f91d215d438fda65cb300a6acb06" tvg-chno="133",央视少儿高清
+http://192.168.100.1:4022/rtp/239.77.0.133:5146
+#EXTINF:-1 tvg-id="b0b21dff748336de74882ae3f505384c" tvg-chno="134",央视科教高清
+http://192.168.100.1:4022/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-id="bacb1925d96cdbe94394ea882ada8ee2" tvg-chno="135",央视纪录高清
+http://192.168.100.1:4022/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-id="10847ab79bf1ee68f9578f2aa5d5fafc" tvg-chno="136",央视社会高清
+http://192.168.100.1:4022/rtp/239.77.0.136:5146
+#EXTINF:-1 tvg-id="7df30f727f0e9a46825928c409276f73" tvg-chno="137",央视财经高清
+http://192.168.100.1:4022/rtp/239.77.0.137:5146
+#EXTINF:-1 tvg-id="f8411159c39ce2e2d841e6610dd6504a" tvg-chno="138",央视国防高清
+http://192.168.100.1:4022/rtp/239.77.0.138:5146
+#EXTINF:-1 tvg-id="7962b09479b09eefb1c4b6ac2d1c7aee" tvg-chno="139",广西卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.139:5146
+#EXTINF:-1 tvg-id="dbb53c1d74f4cde626fd5015332bcc72" tvg-chno="140",湛江公共高清
+http://192.168.100.1:4022/rtp/239.77.0.140:5146
+#EXTINF:-1 tvg-id="27e3b0b9df150a6770307b1bfa15c5d1" tvg-chno="141",湛江综合高清
+http://192.168.100.1:4022/rtp/239.77.0.141:5146
+#EXTINF:-1 tvg-id="358effc331b51c7fc20ca3503bba86bd" tvg-chno="145",快乐垂钓高清
+http://192.168.100.1:4022/rtp/239.77.0.145:5146
+#EXTINF:-1 tvg-id="54049ea1306dde6c8d0bce9ca0241895" tvg-chno="146",东南卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.146:5146
+#EXTINF:-1 tvg-id="e98518f91f60d27d625d29ff73b32df7" tvg-chno="147",上海纪实高清
+http://192.168.100.1:4022/rtp/239.77.0.147:5146
+#EXTINF:-1 tvg-id="a3d27ec1a65afa3685630cad0d7cdf79" tvg-chno="148",河北卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.148:5146
+#EXTINF:-1 tvg-id="f76d9a5a3c69ec3a37937f32a5846432" tvg-chno="149",江西卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.149:5146
+#EXTINF:-1 tvg-id="c73ed3ddf93373c613648c100abd3709" tvg-chno="150",吉林卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.150:5146
+#EXTINF:-1 tvg-id="764e359087f0ff8e5b1800a3f0d13803" tvg-chno="152",三沙卫视
+http://192.168.100.1:4022/rtp/239.77.0.152:5146
+#EXTINF:-1 tvg-id="59c4cb97a17be512f3a149beb651598f" tvg-chno="153",求索生活高清
+http://192.168.100.1:4022/rtp/239.77.0.153:5146
+#EXTINF:-1 tvg-id="9cd7ccfecefb70553a72a1e1841408a6" tvg-chno="154",珠海2高清
+http://192.168.100.1:4022/rtp/239.77.0.154:5146
+#EXTINF:-1 tvg-id="7d5fcc7d3048960ef07391c4279b0640" tvg-chno="155",珠海1高清
+http://192.168.100.1:4022/rtp/239.77.0.155:5146
+#EXTINF:-1 tvg-id="32c1cd9bc701fd68c79c9d2b3fb38c73" tvg-chno="157",揭阳综合
+http://192.168.100.1:4022/rtp/239.77.0.157:5146
+#EXTINF:-1 tvg-id="d6cbec5d597457556d0f55cf42f0864a" tvg-chno="158",揭阳生活
+http://192.168.100.1:4022/rtp/239.77.0.158:5146
+#EXTINF:-1 tvg-id="6e6c85289e7596d18824b0bbe6f15215" tvg-chno="159",四川卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.159:5146
+#EXTINF:-1 tvg-id="8934fe7e4149e425348a36a219af991c" tvg-chno="160",金鹰纪实高清
+http://192.168.100.1:4022/rtp/239.77.0.160:5146
+#EXTINF:-1 tvg-id="20c6d2e33ac7841f4d621c431a514f26" tvg-chno="161",辽宁卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.161:5146
+#EXTINF:-1 tvg-id="8934fe7e4149e425348a36a219af991c" tvg-chno="162",金鹰纪实高清
+http://192.168.100.1:4022/rtp/239.77.0.162:5146
+#EXTINF:-1 tvg-id="6e6c85289e7596d18824b0bbe6f15215" tvg-chno="163",四川卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.163:5146
+#EXTINF:-1 tvg-id="3d4e39acd458e3967663ad5ade4e15ea" tvg-chno="164",金鹰卡通高清
+http://192.168.100.1:4022/rtp/239.77.0.164:5146
+#EXTINF:-1 tvg-id="0d7afd945008b97c8e8a2b0a1336d1e2" tvg-chno="165",央视奥运高清
+http://192.168.100.1:4022/rtp/239.77.0.165:5146
+#EXTINF:-1 tvg-id="aa3c14340c66b25ecb9b7107384e4820" tvg-chno="166",广东卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.166:5146
+#EXTINF:-1 tvg-id="ba7968a30a8e39c0bc46374f30290e73" tvg-chno="167",广东经视高清
+http://192.168.100.1:4022/rtp/239.77.0.167:5146
+#EXTINF:-1 tvg-id="468330f223a059917250c0d34eb044ab" tvg-chno="168",广东体育高清
+http://192.168.100.1:4022/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="bb53d3953e8078d1a2b75e82623454ce" tvg-chno="169",央视综艺高清
+http://192.168.100.1:4022/rtp/239.77.0.169:5146
+#EXTINF:-1 tvg-id="770376a735f21b96f503f62fb08de161" tvg-chno="170",央视体育高清
+http://192.168.100.1:4022/rtp/239.77.0.170:5146
+#EXTINF:-1 tvg-id="935f111960c6df5f65e77024577c99a7" tvg-chno="171",央视电影高清
+http://192.168.100.1:4022/rtp/239.77.0.171:5146
+#EXTINF:-1 tvg-id="f74e81d6d22023be4ce8ef690006ecce" tvg-chno="172",央视电视剧高清
+http://192.168.100.1:4022/rtp/239.77.0.172:5146
+#EXTINF:-1 tvg-id="598f2a3ac8121ec75d1b2851c4fe2767" tvg-chno="173",广东新闻高清
+http://192.168.100.1:4022/rtp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="48013086c65ffd2962a11c4ee9feb60e" tvg-chno="174",央视4K高清·暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.174:5146
+#EXTINF:-1 tvg-id="bb53d3953e8078d1a2b75e82623454ce" tvg-chno="175",央视综艺高清
+http://192.168.100.1:4022/rtp/239.77.0.175:5146
+#EXTINF:-1 tvg-id="5dc6f3c2a16c36fbd5f3ace3072dbf13" tvg-chno="176",IPTV5+高清
+http://192.168.100.1:4022/rtp/239.77.0.176:5146
+#EXTINF:-1 tvg-id="770376a735f21b96f503f62fb08de161" tvg-chno="177",央视体育高清
+http://192.168.100.1:4022/rtp/239.77.0.177:5146
+#EXTINF:-1 tvg-id="935f111960c6df5f65e77024577c99a7" tvg-chno="178",央视电影高清
+http://192.168.100.1:4022/rtp/239.77.0.178:5146
+#EXTINF:-1 tvg-id="ddad41a216dbd2dc7f905b015b71d0d5" tvg-chno="179",广东卡通高清
+http://192.168.100.1:4022/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-id="78715e7f8a5aef2f4323587d8573c0b9" tvg-chno="180",早期教育高清
+http://192.168.100.1:4022/rtp/239.77.0.180:5146
+#EXTINF:-1 tvg-id="f74e81d6d22023be4ce8ef690006ecce" tvg-chno="181",央视电视剧高清
+http://192.168.100.1:4022/rtp/239.77.0.181:5146
+#EXTINF:-1 tvg-id="9d82cbe3d46752222f88d43fde170c2b" tvg-chno="182",重庆卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.182:5146
+#EXTINF:-1 tvg-id="008aa7028148d8b982336d442eba38ec" tvg-chno="183",安徽卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.183:5146
+#EXTINF:-1 tvg-id="f582193646fdb0286c6efd09b8a93b53" tvg-chno="185",中超赛事(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.0.185:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="186",暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.186:5146
+#EXTINF:-1 tvg-id="7590c4a280777dffe01821fe8c9f61ab" tvg-chno="187",汕尾生活高清
+http://192.168.100.1:4022/rtp/239.77.0.187:5146
+#EXTINF:-1 tvg-id="8680b965a8f4868c08d93f5fe2ee79d5" tvg-chno="188",央视新闻高清
+http://192.168.100.1:4022/rtp/239.77.0.188:5146
+#EXTINF:-1 tvg-id="b3f71eefc2a640bf1de45f3c28abf92b" tvg-chno="189",甘肃卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="48013086c65ffd2962a11c4ee9feb60e" tvg-chno="194",央视4K高清·暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.194:5146
+#EXTINF:-1 tvg-id="36985e8d9f99d1f9c4b562ebf0111e49" tvg-chno="195",江门综合
+http://192.168.100.1:4022/rtp/239.77.0.195:5146
+#EXTINF:-1 tvg-id="86f02f7601d5834bacc848d9cca71bb8" tvg-chno="196",江门侨乡
+http://192.168.100.1:4022/rtp/239.77.0.196:5146
+#EXTINF:-1 tvg-id="c23e3983a8de5738d85af92a220cf93a" tvg-chno="197",江门教育(停播)
+http://192.168.100.1:4022/rtp/239.77.0.197:5146
+#EXTINF:-1 tvg-id="214b77e9c673f5662c252bc5a245e31c" tvg-chno="198",央视农业高清
+http://192.168.100.1:4022/rtp/239.77.0.198:5146
+#EXTINF:-1 tvg-id="8a98e446fe9f0711fe30d05561add105" tvg-chno="199",央视英闻高清
+http://192.168.100.1:4022/rtp/239.77.0.199:5146
+#EXTINF:-1 tvg-id="fc3f082542c50c4d2ac44d6fd25e5f54" tvg-chno="200",中国教育1高清
+http://192.168.100.1:4022/rtp/239.77.0.200:5146
+#EXTINF:-1 tvg-id="afc8044d49ea66c09e9ead06a705c326" tvg-chno="201",江门综合高清
+http://192.168.100.1:4022/rtp/239.77.0.201:5146
+#EXTINF:-1 tvg-id="0c7fd1af0265afa5ac30d4ce53443072" tvg-chno="202",江门侨乡高清
+http://192.168.100.1:4022/rtp/239.77.0.202:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="203",暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.203:5146
+#EXTINF:-1 tvg-id="6632bb7732aa53445921f3e1dcbf4384" tvg-chno="204",茂名综合
+http://192.168.100.1:4022/rtp/239.77.0.204:5146
+#EXTINF:-1 tvg-id="ef40d606bc4edc01f0c41c9b85dc6692" tvg-chno="205",茂名公共
+http://192.168.100.1:4022/rtp/239.77.0.205:5146
+#EXTINF:-1 tvg-id="eca8d5a8d44c9257f354e77be31ba971" tvg-chno="206",茂名综合高清
+http://192.168.100.1:4022/rtp/239.77.0.206:5146
+#EXTINF:-1 tvg-id="dec14bff7a06e0c37ca25e1e0699994a" tvg-chno="207",茂名公共高清
+http://192.168.100.1:4022/rtp/239.77.0.207:5146
+#EXTINF:-1 tvg-id="3851e2481577b10c6b7b647a09907954" tvg-chno="208",黑屏(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.0.208:5146
+#EXTINF:-1 tvg-id="0f3e9be3615049271c188e0f0d189da9" tvg-chno="209",重庆汽摩
+http://192.168.100.1:4022/rtp/239.77.0.209:5146
+#EXTINF:-1 tvg-id="e15122403d5aca361a6b63ddea292464" tvg-chno="211",游戏竞技
+http://192.168.100.1:4022/rtp/239.77.0.211:5146
+#EXTINF:-1 tvg-id="626c9cf909bf516a52a4b1ee448ac42b" tvg-chno="212",江苏靓妆
+http://192.168.100.1:4022/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-id="4ee07fbd1138b4e58f56737dd235a554" tvg-chno="215",广东大湾区卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="0233e2c95d98bac47a7fde79e5db6635" tvg-chno="217",广东影视高清
+http://192.168.100.1:4022/rtp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="f8bc90915f955577dde3684b2032881a" tvg-chno="218",卫星信号传输故障(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.0.218:5146
+#EXTINF:-1 tvg-id="246eb43a28efb7ea72a63ceb61a13b40" tvg-chno="220",老故事
+http://192.168.100.1:4022/rtp/239.77.0.220:5146
+#EXTINF:-1 tvg-id="0180b1fd9846257b6d96b431d3ea3f3f" tvg-chno="221",央视英闻-E
+http://192.168.100.1:4022/rtp/239.77.0.221:5146
+#EXTINF:-1 tvg-id="9d299b62d62a9389c0df11d51a294e48" tvg-chno="222",优漫卡通
+http://192.168.100.1:4022/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-id="695119554c4ad7e003cb2b7c0d07971a" tvg-chno="225",广东公共高清
+http://192.168.100.1:4022/rtp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="23b47188c78ac9aa1015cb27710f5ee9" tvg-chno="226",国学频道
+http://192.168.100.1:4022/rtp/239.77.0.226:5146
+#EXTINF:-1 tvg-id="129ed69064f018d1856dfa99a364c047" tvg-chno="228",央视英闻-F
+http://192.168.100.1:4022/rtp/239.77.0.228:5146
+#EXTINF:-1 tvg-id="c6217b0bf3fe9675f73491c35a62cf06" tvg-chno="229",揭阳综合高清
+http://192.168.100.1:4022/rtp/239.77.0.229:5146
+#EXTINF:-1 tvg-id="b17b7290343002bed9b6f0df175c8633" tvg-chno="230",贵州卫视高清
+http://192.168.100.1:4022/rtp/239.77.0.230:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="232",暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.232:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="233",暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.233:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="236",暂无信号
+http://192.168.100.1:4022/rtp/239.77.0.236:5146
+#EXTINF:-1 tvg-id="32c1cd9bc701fd68c79c9d2b3fb38c73" tvg-chno="240",揭阳综合
+http://192.168.100.1:4022/rtp/239.77.0.240:5146
+#EXTINF:-1 tvg-id="4ff3e3c25713a781da59dafec38fb94c" tvg-chno="241",版权提示(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.0.241:5146
+#EXTINF:-1 tvg-id="c6c0e3ff9971bbf239c020765c89258d" tvg-chno="244",广东综艺4K
+http://192.168.100.1:4022/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-id="c6c0e3ff9971bbf239c020765c89258d" tvg-chno="245",广东综艺4K
+http://192.168.100.1:4022/rtp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="c6c0e3ff9971bbf239c020765c89258d" tvg-chno="246",广东综艺4K
+http://192.168.100.1:4022/rtp/239.77.0.246:5146
+#EXTINF:-1 tvg-id="7d608ffa4d96e2c872be44546b26acb3" tvg-chno="247",惠州1
+http://192.168.100.1:4022/rtp/239.77.0.247:5146
+#EXTINF:-1 tvg-id="dc9b2791e70998b1583f21bf0c4e69dd" tvg-chno="248",惠州2
+http://192.168.100.1:4022/rtp/239.77.0.248:5146
+#EXTINF:-1 tvg-id="15706bedccb41d73f5885c292d9557a6" tvg-chno="250",广东少儿高清
+http://192.168.100.1:4022/rtp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="e77c25e854c102ce0d6fb6f8feb2c5cf" tvg-chno="251",揭阳生活高清
+http://192.168.100.1:4022/rtp/239.77.0.251:5146
+#EXTINF:-1 tvg-id="c6c0e3ff9971bbf239c020765c89258d" tvg-chno="252",广东综艺4K
+http://192.168.100.1:4022/rtp/239.77.0.252:5146
+#EXTINF:-1 tvg-id="e4724874a265db815af24deeae87b909" tvg-chno="253",云浮综合高清
+http://192.168.100.1:4022/rtp/239.77.0.253:5146
+#EXTINF:-1 tvg-id="d4ade5254d38a06df0cd26c4dacb1f87" tvg-chno="254",云浮文旅高清
+http://192.168.100.1:4022/rtp/239.77.0.254:5146
+#EXTINF:-1 tvg-id="0b54da973aaa9d57361846b14cd7da3e" tvg-chno="257",东南卫视
+http://192.168.100.1:4022/rtp/239.77.1.1:5146
+#EXTINF:-1 tvg-id="c8bf387b1824053bdb0423ef806a2227" tvg-chno="258",广东卫视
+http://192.168.100.1:4022/rtp/239.77.1.2:5146
+#EXTINF:-1 tvg-id="87ee8394d5c001fb06c2bcff1b21006b" tvg-chno="259",深圳卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.3:5146
+#EXTINF:-1 tvg-id="4902a7edc6d01498783252eab1ae4cb3" tvg-chno="260",北京卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.4:5146
+#EXTINF:-1 tvg-id="344643c90c852a824d6b38952179ac85" tvg-chno="261",湖南卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.5:5146
+#EXTINF:-1 tvg-id="6c99c0186db94ab35767054fc7f1b2cc" tvg-chno="262",黑龙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.6:5146
+#EXTINF:-1 tvg-id="fe1be356ab28ba029c4c2e8ec2befbc8" tvg-chno="263",深圳电视剧
+http://192.168.100.1:4022/rtp/239.77.1.7:5146
+#EXTINF:-1 tvg-id="8fb0951809d27b6a8f07ed0aae518807" tvg-chno="264",深圳体育
+http://192.168.100.1:4022/rtp/239.77.1.8:5146
+#EXTINF:-1 tvg-id="6843d8c1981cc4ceb0befd160b4a1d50" tvg-chno="265",深圳公共
+http://192.168.100.1:4022/rtp/239.77.1.9:5146
+#EXTINF:-1 tvg-id="3e64e10e162c34073974af80d50c36ae" tvg-chno="266",央视社会
+http://192.168.100.1:4022/rtp/239.77.1.10:5146
+#EXTINF:-1 tvg-id="454637d7597887acf7b056899b882795" tvg-chno="267",央视音乐
+http://192.168.100.1:4022/rtp/239.77.1.11:5146
+#EXTINF:-1 tvg-id="820626d82057250f41811fbf69fb9541" tvg-chno="268",广东大湾区卫视
+http://192.168.100.1:4022/rtp/239.77.1.12:5146
+#EXTINF:-1 tvg-id="5b0447ba48dbb6be1c286bab83f77e39" tvg-chno="269",安徽卫视
+http://192.168.100.1:4022/rtp/239.77.1.13:5146
+#EXTINF:-1 tvg-id="db47125bc6c697e608358a9dfbf95f82" tvg-chno="270",北京卫视
+http://192.168.100.1:4022/rtp/239.77.1.14:5146
+#EXTINF:-1 tvg-id="dcf8d74481da009f2bd54465d89376e4" tvg-chno="271",广东卡通
+http://192.168.100.1:4022/rtp/239.77.1.15:5146
+#EXTINF:-1 tvg-id="5731a167d79c432575056c4963dc8049" tvg-chno="272",重庆卫视
+http://192.168.100.1:4022/rtp/239.77.1.16:5146
+#EXTINF:-1 tvg-id="1349b931cc618bc3dbc8f7c2b9cd3b7c" tvg-chno="273",央视综合高清
+http://192.168.100.1:4022/rtp/239.77.1.17:5146
+#EXTINF:-1 tvg-id="322fa7b66243b8d0edef9d761a42f263" tvg-chno="274",江苏卫视
+http://192.168.100.1:4022/rtp/239.77.1.18:5146
+#EXTINF:-1 tvg-id="aa3c14340c66b25ecb9b7107384e4820" tvg-chno="275",广东卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.19:5146
+#EXTINF:-1 tvg-id="67a7bc2b6a4b158bc327422132ccf73d" tvg-chno="276",央视综合
+http://192.168.100.1:4022/rtp/239.77.1.20:5146
+#EXTINF:-1 tvg-id="20831bb807a45638cfaf81df1122024d" tvg-chno="277",深圳卫视
+http://192.168.100.1:4022/rtp/239.77.1.21:5146
+#EXTINF:-1 tvg-id="5b115d2bd4526bce3da3d7f7e9d8b853" tvg-chno="278",深圳财经
+http://192.168.100.1:4022/rtp/239.77.1.22:5146
+#EXTINF:-1 tvg-id="4a4be6d0c154f477637136646671f57f" tvg-chno="280",央视国防
+http://192.168.100.1:4022/rtp/239.77.1.24:5146
+#EXTINF:-1 tvg-id="956d9f4014b12ec65c5a8bef2b8aaa20" tvg-chno="281",央视科教
+http://192.168.100.1:4022/rtp/239.77.1.25:5146
+#EXTINF:-1 tvg-id="26ef70172790ae7a0a13ee442a33118d" tvg-chno="282",央视新闻
+http://192.168.100.1:4022/rtp/239.77.1.26:5146
+#EXTINF:-1 tvg-id="0e44fd230b7881f6219f55f52f7b04dc" tvg-chno="283",央视英闻
+http://192.168.100.1:4022/rtp/239.77.1.27:5146
+#EXTINF:-1 tvg-id="1080fe434ef88433087c70ce8ef35489" tvg-chno="284",央视财经
+http://192.168.100.1:4022/rtp/239.77.1.28:5146
+#EXTINF:-1 tvg-id="c39a7a374d888bce3912df71bcb0d580" tvg-chno="285",湖南卫视
+http://192.168.100.1:4022/rtp/239.77.1.29:5146
+#EXTINF:-1 tvg-id="b82fa4086c9a2c9442279efbb80cce31" tvg-chno="286",四川卫视
+http://192.168.100.1:4022/rtp/239.77.1.30:5146
+#EXTINF:-1 tvg-id="c614bb121f9f0ec7f75e1c77c1eedee8" tvg-chno="287",央视赛事高清
+http://192.168.100.1:4022/rtp/239.77.1.31:5146
+#EXTINF:-1 tvg-id="590e187a8799b1890175d25ec85ea352" tvg-chno="288",浙江卫视
+http://192.168.100.1:4022/rtp/239.77.1.32:5146
+#EXTINF:-1 tvg-id="672f3109c1beeabcd34d4cc6c39806c2" tvg-chno="289",浙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.33:5146
+#EXTINF:-1 tvg-id="162efba2ca1316c82959d115edfec371" tvg-chno="290",深圳都市
+http://192.168.100.1:4022/rtp/239.77.1.34:5146
+#EXTINF:-1 tvg-id="57ed30cc494fe7ea4d297de2b8c07b27" tvg-chno="291",山东教育
+http://192.168.100.1:4022/rtp/239.77.1.35:5146
+#EXTINF:-1 tvg-id="a2448d963d532a733ad64fa9968c5ead" tvg-chno="292",深圳娱乐
+http://192.168.100.1:4022/rtp/239.77.1.36:5146
+#EXTINF:-1 tvg-id="5927c7a6dd31f38686fafa073e2e13bc" tvg-chno="293",天津卫视
+http://192.168.100.1:4022/rtp/239.77.1.37:5146
+#EXTINF:-1 tvg-id="3f4242add3904b5853146bbbcdb51168" tvg-chno="294",深圳少儿
+http://192.168.100.1:4022/rtp/239.77.1.38:5146
+#EXTINF:-1 tvg-id="9a8c84c455de0074dede6b1d59bc8619" tvg-chno="295",深圳购物
+http://192.168.100.1:4022/rtp/239.77.1.39:5146
+#EXTINF:-1 tvg-id="322fa7b66243b8d0edef9d761a42f263" tvg-chno="296",江苏卫视
+http://192.168.100.1:4022/rtp/239.77.1.40:5146
+#EXTINF:-1 tvg-id="fb4e198fcd2de1e659c33e4bf2e7932a" tvg-chno="297",央视中文国际
+http://192.168.100.1:4022/rtp/239.77.1.41:5146
+#EXTINF:-1 tvg-id="6415c6a6ca520c29573ff845e2cb1cea" tvg-chno="298",央视戏曲
+http://192.168.100.1:4022/rtp/239.77.1.42:5146
+#EXTINF:-1 tvg-id="1bf026e4e10525c0c60ba7b5cb8418f2" tvg-chno="299",央视少儿
+http://192.168.100.1:4022/rtp/239.77.1.43:5146
+#EXTINF:-1 tvg-id="55fc65ef82e92d0e1ccb2b3f200a7529" tvg-chno="300",湖北卫视
+http://192.168.100.1:4022/rtp/239.77.1.44:5146
+#EXTINF:-1 tvg-id="45392a8be644f5b8903838436870c75d" tvg-chno="301",吉林卫视
+http://192.168.100.1:4022/rtp/239.77.1.45:5146
+#EXTINF:-1 tvg-id="ffa067dc1f3d5dc397e821c9d7005b7f" tvg-chno="302",中国教育1
+http://192.168.100.1:4022/rtp/239.77.1.46:5146
+#EXTINF:-1 tvg-id="a09ab19928a6b2bd616f7e2eba1056ee" tvg-chno="303",宁夏卫视
+http://192.168.100.1:4022/rtp/239.77.1.47:5146
+#EXTINF:-1 tvg-id="b0977d8b1d2a989a7177d9f6b6ff16e7" tvg-chno="304",东方卫视
+http://192.168.100.1:4022/rtp/239.77.1.48:5146
+#EXTINF:-1 tvg-id="feccf21eb7e50753355efdab2d54d9e8" tvg-chno="305",西藏卫视
+http://192.168.100.1:4022/rtp/239.77.1.49:5146
+#EXTINF:-1 tvg-id="b0a1626de6ba6468ae40905367d8f93a" tvg-chno="306",北京卡酷
+http://192.168.100.1:4022/rtp/239.77.1.50:5146
+#EXTINF:-1 tvg-id="c0fc93e34943ad854b923c031d24bd39" tvg-chno="307",海南卫视
+http://192.168.100.1:4022/rtp/239.77.1.51:5146
+#EXTINF:-1 tvg-id="5833ab691e9d2b329d23531d39970614" tvg-chno="308",金鹰卡通
+http://192.168.100.1:4022/rtp/239.77.1.52:5146
+#EXTINF:-1 tvg-id="ad291a233f1fd3f24332e41461798a25" tvg-chno="309",新疆卫视
+http://192.168.100.1:4022/rtp/239.77.1.53:5146
+#EXTINF:-1 tvg-id="eb7330e363ceec8c6895eacc44a1a804" tvg-chno="310",陕西卫视
+http://192.168.100.1:4022/rtp/239.77.1.54:5146
+#EXTINF:-1 tvg-id="03295de404257fa9653b89bf2d0e47ac" tvg-chno="311",内蒙古卫视
+http://192.168.100.1:4022/rtp/239.77.1.55:5146
+#EXTINF:-1 tvg-id="c3810181e0be2c45056df7b571330097" tvg-chno="312",央视电视剧-IPTV4精品
+http://192.168.100.1:4022/rtp/239.77.1.56:5146
+#EXTINF:-1 tvg-id="5ace8ddc54a4151bbcf76e56c8aa582a" tvg-chno="313",甘肃卫视
+http://192.168.100.1:4022/rtp/239.77.1.57:5146
+#EXTINF:-1 tvg-id="c0fc93e34943ad854b923c031d24bd39" tvg-chno="314",海南卫视
+http://192.168.100.1:4022/rtp/239.77.1.58:5146
+#EXTINF:-1 tvg-id="5cbb108dbf59f2ae1849ec8d1126d1a5" tvg-chno="315",广西卫视
+http://192.168.100.1:4022/rtp/239.77.1.59:5146
+#EXTINF:-1 tvg-id="ef1fce69a9e1b3a587ca734302400107" tvg-chno="316",河北卫视
+http://192.168.100.1:4022/rtp/239.77.1.60:5146
+#EXTINF:-1 tvg-id="5a7d01661b5d9c64293860531374312b" tvg-chno="317",贵州卫视
+http://192.168.100.1:4022/rtp/239.77.1.61:5146
+#EXTINF:-1 tvg-id="9291c40ec1cec1281638720c74c7245f" tvg-chno="318",辽宁卫视
+http://192.168.100.1:4022/rtp/239.77.1.62:5146
+#EXTINF:-1 tvg-id="ff22e46df5ce89a0f4fc8c76a0aa6ec0" tvg-chno="319",央视体育-IPTV2精品
+http://192.168.100.1:4022/rtp/239.77.1.63:5146
+#EXTINF:-1 tvg-id="053014b56c5b09c4f56251f68d82c9b3" tvg-chno="320",央视电影-IPTV3精品
+http://192.168.100.1:4022/rtp/239.77.1.64:5146
+#EXTINF:-1 tvg-id="e15cd62d44d396148cff29331b745092" tvg-chno="321",央视纪录
+http://192.168.100.1:4022/rtp/239.77.1.65:5146
+#EXTINF:-1 tvg-id="28502a1b6bf5fbe7c6da9241db596237" tvg-chno="322",山东卫视
+http://192.168.100.1:4022/rtp/239.77.1.66:5146
+#EXTINF:-1 tvg-id="cca3aa2a6253aedad9aebd92f75cd69f" tvg-chno="323",深圳宝安高清
+http://192.168.100.1:4022/rtp/239.77.1.67:5146
+#EXTINF:-1 tvg-id="1d56a6be10c70e74b330641fce34ed60" tvg-chno="324",中国教育4
+http://192.168.100.1:4022/rtp/239.77.1.68:5146
+#EXTINF:-1 tvg-id="b0a901eb787416007cf5cbb79ce009ab" tvg-chno="325",中国教育2
+http://192.168.100.1:4022/rtp/239.77.1.69:5146
+#EXTINF:-1 tvg-id="4ec095f1d2564f82341275fff64edb5a" tvg-chno="326",青海卫视
+http://192.168.100.1:4022/rtp/239.77.1.70:5146
+#EXTINF:-1 tvg-id="1ce026a774dba0d13dc0cef453248fb7" tvg-chno="327",黑龙江卫视
+http://192.168.100.1:4022/rtp/239.77.1.71:5146
+#EXTINF:-1 tvg-id="c786da29f0f5cc5973444e3ad49413a6" tvg-chno="328",云南卫视
+http://192.168.100.1:4022/rtp/239.77.1.72:5146
+#EXTINF:-1 tvg-id="535765a19ab55a12bbf64a1e98ae97dd" tvg-chno="329",江西卫视
+http://192.168.100.1:4022/rtp/239.77.1.73:5146
+#EXTINF:-1 tvg-id="2aeb585ccaca9fa893b0bdfdbc098c7f" tvg-chno="330",山西卫视
+http://192.168.100.1:4022/rtp/239.77.1.74:5146
+#EXTINF:-1 tvg-id="edaec3aa3f09183b8457baf8d2c9024a" tvg-chno="331",央视综艺-IPTV1精品
+http://192.168.100.1:4022/rtp/239.77.1.75:5146
+#EXTINF:-1 tvg-id="b7fa107b35467c6aeb55e70eb337e56b" tvg-chno="332",央视奥林匹克高清
+http://192.168.100.1:4022/rtp/239.77.1.76:5146
+#EXTINF:-1 tvg-id="78900259a93847c70c177ca881334f23" tvg-chno="333",央视体育
+http://192.168.100.1:4022/rtp/239.77.1.77:5146
+#EXTINF:-1 tvg-id="b3a0e2cc18ab8af618210e99d639caa3" tvg-chno="334",IPTV3+
+http://192.168.100.1:4022/rtp/239.77.1.78:5146
+#EXTINF:-1 tvg-id="9d299b62d62a9389c0df11d51a294e48" tvg-chno="335",优漫卡通
+http://192.168.100.1:4022/rtp/239.77.1.79:5146
+#EXTINF:-1 tvg-id="5ec2992011cb16a9ca85c84e41b05b8b" tvg-chno="336",兵团卫视
+http://192.168.100.1:4022/rtp/239.77.1.80:5146
+#EXTINF:-1 tvg-id="ae50edba97bb529b7d297d703c5cf0d4" tvg-chno="337",财富天下
+http://192.168.100.1:4022/rtp/239.77.1.81:5146
+#EXTINF:-1 tvg-id="b209854b7b597d49224ec883416bb154" tvg-chno="338",IPTV8+
+http://192.168.100.1:4022/rtp/239.77.1.82:5146
+#EXTINF:-1 tvg-id="dfa8e7c78fd8f0b1397006acb27e7c41" tvg-chno="339",IPTV谍战剧场
+http://192.168.100.1:4022/rtp/239.77.1.83:5146
+#EXTINF:-1 tvg-id="798d84b42f03ad420fc79a3fbe41c554" tvg-chno="340",IPTV相声小品
+http://192.168.100.1:4022/rtp/239.77.1.84:5146
+#EXTINF:-1 tvg-id="b2ae87be27888e9ba736d0abc2e87e2d" tvg-chno="341",IPTV野外
+http://192.168.100.1:4022/rtp/239.77.1.85:5146
+#EXTINF:-1 tvg-id="d62dda7092b9d64af6fb292753eea70a" tvg-chno="342",IPTV法治
+http://192.168.100.1:4022/rtp/239.77.1.86:5146
+#EXTINF:-1 tvg-id="ea77062b365fdb02a2acac64da29683c" tvg-chno="343",深圳购物高清
+http://192.168.100.1:4022/rtp/239.77.1.87:5146
+#EXTINF:-1 tvg-id="53baaacc5986c428cf023883d5a43af4" tvg-chno="344",IPTV魅力时尚
+http://192.168.100.1:4022/rtp/239.77.1.88:5146
+#EXTINF:-1 tvg-id="a69ba60abc02a1f078371cec5bf33eaa" tvg-chno="345",IPTV经典电影
+http://192.168.100.1:4022/rtp/239.77.1.89:5146
+#EXTINF:-1 tvg-id="ea426a9c13a2c5f111dcbd826d2d4b24" tvg-chno="346",IPTV热播剧场
+http://192.168.100.1:4022/rtp/239.77.1.90:5146
+#EXTINF:-1 tvg-id="de11d54b13cea27553fbb87af9c250ad" tvg-chno="347",IPTV少儿动画
+http://192.168.100.1:4022/rtp/239.77.1.91:5146
+#EXTINF:-1 tvg-id="008aa7028148d8b982336d442eba38ec" tvg-chno="348",安徽卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="3e15c1a3e1a4c1129d60f9746b0e6dee" tvg-chno="349",湖北卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.93:5146
+#EXTINF:-1 tvg-id="b66feca3d096e80c29170d88402f07b6" tvg-chno="350",广东珠江
+http://192.168.100.1:4022/rtp/239.77.1.94:5146
+#EXTINF:-1 tvg-id="6584f926271fd8e9105ac8e2583bc052" tvg-chno="353",广东体育
+http://192.168.100.1:4022/rtp/239.77.1.97:5146
+#EXTINF:-1 tvg-id="2a5d9daf2a4d6f11c546d9b3d2d5e1b4" tvg-chno="354",央视奥林匹克高清4K
+http://192.168.100.1:4022/rtp/239.77.1.98:5146
+#EXTINF:-1 tvg-id="dc5e57459f1c3ce91a55ddb1cf71b3ba" tvg-chno="355",延边卫视
+http://192.168.100.1:4022/rtp/239.77.1.99:5146
+#EXTINF:-1 tvg-id="a75456d55e2a7a8230faf06be2eb5463" tvg-chno="356",梨园频道高清
+http://192.168.100.1:4022/rtp/239.77.1.100:5146
+#EXTINF:-1 tvg-id="20c6d2e33ac7841f4d621c431a514f26" tvg-chno="359",辽宁卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.103:5146
+#EXTINF:-1 tvg-id="54049ea1306dde6c8d0bce9ca0241895" tvg-chno="360",东南卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="23b47188c78ac9aa1015cb27710f5ee9" tvg-chno="361",国学频道
+http://192.168.100.1:4022/rtp/239.77.1.105:5146
+#EXTINF:-1 tvg-id="0dea06d93f97c5cabd2b09c622c0d1a8" tvg-chno="363",多屏同播(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.1.107:5146
+#EXTINF:-1 tvg-id="9f4c7c94ecfe05c1f5c805fb7d242e86" tvg-chno="364",武术世界高清
+http://192.168.100.1:4022/rtp/239.77.1.108:5146
+#EXTINF:-1 tvg-id="10847ab79bf1ee68f9578f2aa5d5fafc" tvg-chno="365",央视社会高清
+http://192.168.100.1:4022/rtp/239.77.1.109:5146
+#EXTINF:-1 tvg-id="4ad7a1d1215a71288b5067d00885a192" tvg-chno="366",深圳东部高清(暂无信号)
+http://192.168.100.1:4022/rtp/239.77.1.110:5146
+#EXTINF:-1 tvg-id="c73ed3ddf93373c613648c100abd3709" tvg-chno="367",吉林卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.111:5146
+#EXTINF:-1 tvg-id="e15122403d5aca361a6b63ddea292464" tvg-chno="368",游戏竞技
+http://192.168.100.1:4022/rtp/239.77.1.112:5146
+#EXTINF:-1 tvg-id="b0b21dff748336de74882ae3f505384c" tvg-chno="369",央视科教高清
+http://192.168.100.1:4022/rtp/239.77.1.113:5146
+#EXTINF:-1 tvg-id="3752fccb4f7cbcf654028902a45cc98e" tvg-chno="371",书画频道
+http://192.168.100.1:4022/rtp/239.77.1.115:5146
+#EXTINF:-1 tvg-id="5dc6f3c2a16c36fbd5f3ace3072dbf13" tvg-chno="372",IPTV5+高清
+http://192.168.100.1:4022/rtp/239.77.1.116:5146
+#EXTINF:-1 tvg-id="764e359087f0ff8e5b1800a3f0d13803" tvg-chno="373",三沙卫视
+http://192.168.100.1:4022/rtp/239.77.1.117:5146
+#EXTINF:-1 tvg-id="626c9cf909bf516a52a4b1ee448ac42b" tvg-chno="374",江苏靓妆
+http://192.168.100.1:4022/rtp/239.77.1.118:5146
+#EXTINF:-1 tvg-id="358effc331b51c7fc20ca3503bba86bd" tvg-chno="375",快乐垂钓高清
+http://192.168.100.1:4022/rtp/239.77.1.119:5146
+#EXTINF:-1 tvg-id="c569eed42d9eb39a0dcb685a5a3ffdb6" tvg-chno="376",文物宝库高清
+http://192.168.100.1:4022/rtp/239.77.1.120:5146
+#EXTINF:-1 tvg-id="214b77e9c673f5662c252bc5a245e31c" tvg-chno="377",央视农业高清
+http://192.168.100.1:4022/rtp/239.77.1.121:5146
+#EXTINF:-1 tvg-id="7ab06a62d6f45b429bb23f64edab8951" tvg-chno="379",央视农业
+http://192.168.100.1:4022/rtp/239.77.1.123:5146
+#EXTINF:-1 tvg-id="1ad7b5005b9674ebb9d94766e852263c" tvg-chno="380",深圳都市高清
+http://192.168.100.1:4022/rtp/239.77.1.124:5146
+#EXTINF:-1 tvg-id="b1aaa2b4c5f9b4ff1bf1cd7cfb0894c9" tvg-chno="381",深圳电视剧高清
+http://192.168.100.1:4022/rtp/239.77.1.125:5146
+#EXTINF:-1 tvg-id="f1378966b528fd7d8158d13d55cde482" tvg-chno="382",深圳公共高清
+http://192.168.100.1:4022/rtp/239.77.1.126:5146
+#EXTINF:-1 tvg-id="7dc3523e2019b164a69e4b5019cecc62" tvg-chno="384",深圳体育高清
+http://192.168.100.1:4022/rtp/239.77.1.128:5146
+#EXTINF:-1 tvg-id="344643c90c852a824d6b38952179ac85" tvg-chno="385",湖南卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.129:5146
+#EXTINF:-1 tvg-id="fa95740725a175eb3784be101d84b2f7" tvg-chno="386",汕头综合高清
+http://192.168.100.1:4022/rtp/239.77.1.130:5146
+#EXTINF:-1 tvg-id="db6e8bdce17b1598e03671d356e99619" tvg-chno="387",汕头经济高清
+http://192.168.100.1:4022/rtp/239.77.1.131:5146
+#EXTINF:-1 tvg-id="92fd5a29a705472259399725468dc792" tvg-chno="388",汕头文体高清
+http://192.168.100.1:4022/rtp/239.77.1.132:5146
+#EXTINF:-1 tvg-id="ef77060b6688669b93085cd3c7197227" tvg-chno="391",证券服务
+http://192.168.100.1:4022/rtp/239.77.1.135:5146
+#EXTINF:-1 tvg-id="5cb999fd57cf3650c4278ba1af48bd2d" tvg-chno="392",新动漫
+http://192.168.100.1:4022/rtp/239.77.1.136:5146
+#EXTINF:-1 tvg-id="fcc33dd9f06abed3cef06d6438fe1d46" tvg-chno="393",四海钓鱼
+http://192.168.100.1:4022/rtp/239.77.1.137:5146
+#EXTINF:-1 tvg-id="a5987d5c0cd556b81dd724af87938a18" tvg-chno="394",轮播
+http://192.168.100.1:4022/rtp/239.77.1.138:5146
+#EXTINF:-1 tvg-id="df5481d4c177b0376e10a0142d608ccd" tvg-chno="395",哈哈炫动
+http://192.168.100.1:4022/rtp/239.77.1.139:5146
+#EXTINF:-1 tvg-id="7dc3523e2019b164a69e4b5019cecc62" tvg-chno="396",深圳体育高清
+http://192.168.100.1:4022/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="aee4f0ccf074c96b1f6fe6cede8f4283" tvg-chno="397",天津卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="093aa2690f20760702b729defa072ff9" tvg-chno="398",山东卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.142:5146
+#EXTINF:-1 tvg-id="1c65db71102d795af0e4227f2c5b880e" tvg-chno="399",中国天气
+http://192.168.100.1:4022/rtp/239.77.1.143:5146
+#EXTINF:-1 tvg-id="1349b931cc618bc3dbc8f7c2b9cd3b7c" tvg-chno="400",央视综合高清
+http://192.168.100.1:4022/rtp/239.77.1.144:5146
+#EXTINF:-1 tvg-id="9c56ae165d02d069f6a424193b4fd331" tvg-chno="402",央视赛事高清-576P
+http://192.168.100.1:4022/rtp/239.77.1.146:5146
+#EXTINF:-1 tvg-id="c614bb121f9f0ec7f75e1c77c1eedee8" tvg-chno="403",央视赛事高清
+http://192.168.100.1:4022/rtp/239.77.1.147:5146
+#EXTINF:-1 tvg-id="87ee8394d5c001fb06c2bcff1b21006b" tvg-chno="404",深圳卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.148:5146
+#EXTINF:-1 tvg-id="7f7a20d2f4b6d9d53df600407200b1fc" tvg-chno="405",江苏卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.149:5146
+#EXTINF:-1 tvg-id="672f3109c1beeabcd34d4cc6c39806c2" tvg-chno="406",浙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.150:5146
+#EXTINF:-1 tvg-id="4902a7edc6d01498783252eab1ae4cb3" tvg-chno="407",北京卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.151:5146
+#EXTINF:-1 tvg-id="aa3c14340c66b25ecb9b7107384e4820" tvg-chno="408",广东卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="093aa2690f20760702b729defa072ff9" tvg-chno="409",山东卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.153:5146
+#EXTINF:-1 tvg-id="7d608ffa4d96e2c872be44546b26acb3" tvg-chno="410",惠州1
+http://192.168.100.1:4022/rtp/239.77.1.154:5146
+#EXTINF:-1 tvg-id="9088b261888564a13177fbe207218385" tvg-chno="411",DOXTV
+http://192.168.100.1:4022/rtp/239.77.1.155:5146
+#EXTINF:-1 tvg-id="9d27639746a9b041cc769fadd960bc74" tvg-chno="412",东方卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.156:5146
+#EXTINF:-1 tvg-id="008aa7028148d8b982336d442eba38ec" tvg-chno="413",安徽卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.157:5146
+#EXTINF:-1 tvg-id="7df30f727f0e9a46825928c409276f73" tvg-chno="414",央视财经高清
+http://192.168.100.1:4022/rtp/239.77.1.158:5146
+#EXTINF:-1 tvg-id="f8411159c39ce2e2d841e6610dd6504a" tvg-chno="415",央视国防高清
+http://192.168.100.1:4022/rtp/239.77.1.159:5146
+#EXTINF:-1 tvg-id="bacb1925d96cdbe94394ea882ada8ee2" tvg-chno="416",央视纪录高清
+http://192.168.100.1:4022/rtp/239.77.1.160:5146
+#EXTINF:-1 tvg-id="88c5f91d215d438fda65cb300a6acb06" tvg-chno="417",央视少儿高清
+http://192.168.100.1:4022/rtp/239.77.1.161:5146
+#EXTINF:-1 tvg-id="9d82cbe3d46752222f88d43fde170c2b" tvg-chno="418",重庆卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.162:5146
+#EXTINF:-1 tvg-id="447d48f2bad8325ff6bc2bc522862077" tvg-chno="419",央视中文国际高清
+http://192.168.100.1:4022/rtp/239.77.1.163:5146
+#EXTINF:-1 tvg-id="19976f40033ef37f6d73e03f52255e9a" tvg-chno="420",广场舞高清(OUT)
+http://192.168.100.1:4022/rtp/239.77.1.164:5146
+#EXTINF:-1 tvg-id="1b020a4b79667f48bd7758ecff7a549b" tvg-chno="421",IPTV导视(OUT)
+http://192.168.100.1:4022/rtp/239.77.1.165:5146
+#EXTINF:-1 tvg-id="447d48f2bad8325ff6bc2bc522862077" tvg-chno="422",央视中文国际高清
+http://192.168.100.1:4022/rtp/239.77.1.166:5146
+#EXTINF:-1 tvg-id="f8411159c39ce2e2d841e6610dd6504a" tvg-chno="423",央视国防高清
+http://192.168.100.1:4022/rtp/239.77.1.167:5146
+#EXTINF:-1 tvg-id="bacb1925d96cdbe94394ea882ada8ee2" tvg-chno="424",央视纪录高清
+http://192.168.100.1:4022/rtp/239.77.1.168:5146
+#EXTINF:-1 tvg-id="bb53d3953e8078d1a2b75e82623454ce" tvg-chno="425",央视综艺高清
+http://192.168.100.1:4022/rtp/239.77.1.169:5146
+#EXTINF:-1 tvg-id="770376a735f21b96f503f62fb08de161" tvg-chno="426",央视体育高清
+http://192.168.100.1:4022/rtp/239.77.1.170:5146
+#EXTINF:-1 tvg-id="88c5f91d215d438fda65cb300a6acb06" tvg-chno="427",央视少儿高清
+http://192.168.100.1:4022/rtp/239.77.1.171:5146
+#EXTINF:-1 tvg-id="4bac8e8d1f44fcf793c0088ee33d4348" tvg-chno="428",4K体验(OUT)
+http://192.168.100.1:4022/rtp/239.77.1.172:5146
+#EXTINF:-1 tvg-id="dc9b2791e70998b1583f21bf0c4e69dd" tvg-chno="429",惠州2
+http://192.168.100.1:4022/rtp/239.77.1.173:5146
+#EXTINF:-1 tvg-id="3e15c1a3e1a4c1129d60f9746b0e6dee" tvg-chno="430",湖北卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.174:5146
+#EXTINF:-1 tvg-id="1015e4bc3bef2379c13b7574d80e1b76" tvg-chno="431",深圳移动
+http://192.168.100.1:4022/rtp/239.77.1.175:5146
+#EXTINF:-1 tvg-id="1ad7b5005b9674ebb9d94766e852263c" tvg-chno="432",深圳都市高清
+http://192.168.100.1:4022/rtp/239.77.1.176:5146
+#EXTINF:-1 tvg-id="b1aaa2b4c5f9b4ff1bf1cd7cfb0894c9" tvg-chno="433",深圳电视剧高清
+http://192.168.100.1:4022/rtp/239.77.1.177:5146
+#EXTINF:-1 tvg-id="f1378966b528fd7d8158d13d55cde482" tvg-chno="434",深圳公共高清
+http://192.168.100.1:4022/rtp/239.77.1.178:5146
+#EXTINF:-1 tvg-id="6c99c0186db94ab35767054fc7f1b2cc" tvg-chno="435",黑龙江卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.179:5146
+#EXTINF:-1 tvg-id="aee4f0ccf074c96b1f6fe6cede8f4283" tvg-chno="438",天津卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.182:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="439",暂无信号
+http://192.168.100.1:4022/rtp/239.77.1.183:5146
+#EXTINF:-1 tvg-id="a5987d5c0cd556b81dd724af87938a18" tvg-chno="440",轮播
+http://192.168.100.1:4022/rtp/239.77.1.184:5146
+#EXTINF:-1 tvg-id="339a49d1b2c7c21fa400f24dc374cb54" tvg-chno="441",PPTV-03
+http://192.168.100.1:4022/rtp/239.77.1.185:5146
+#EXTINF:-1 tvg-id="41ae8ffeb83b204267d8b2e068ff8044" tvg-chno="442",PPTV-04
+http://192.168.100.1:4022/rtp/239.77.1.186:5146
+#EXTINF:-1 tvg-id="51f71f39affe071ad069444428cc1097" tvg-chno="445",汕尾综合
+http://192.168.100.1:4022/rtp/239.77.1.189:5146
+#EXTINF:-1 tvg-id="045adda48f633ee31363902a54d6480e" tvg-chno="446",汕尾生活
+http://192.168.100.1:4022/rtp/239.77.1.190:5146
+#EXTINF:-1 tvg-id="4d9a62dfcf41646fd0d25b4def2f4fb9" tvg-chno="448",多屏直播(OUT)
+http://192.168.100.1:4022/rtp/239.77.1.192:5146
+#EXTINF:-1 tvg-id="d2808ac68f2f1f9b4a2fbc440222ccc7" tvg-chno="449",优优宝贝
+http://192.168.100.1:4022/rtp/239.77.1.193:5146
+#EXTINF:-1 tvg-id="1736be1b0640f9acca6cd9ea02fd5143" tvg-chno="451",中学生
+http://192.168.100.1:4022/rtp/239.77.1.195:5146
+#EXTINF:-1 tvg-id="246eb43a28efb7ea72a63ceb61a13b40" tvg-chno="453",老故事
+http://192.168.100.1:4022/rtp/239.77.1.197:5146
+#EXTINF:-1 tvg-id="a54f1bc857b92b3e6fb09a0687918e0b" tvg-chno="454",环球奇观
+http://192.168.100.1:4022/rtp/239.77.1.198:5146
+#EXTINF:-1 tvg-id="cbbf0b9ea9b95385927f74e7052a7e82" tvg-chno="456",中华美食高清
+http://192.168.100.1:4022/rtp/239.77.1.200:5146
+#EXTINF:-1 tvg-id="374b10ab0d8284cb4812aa693bc6fa59" tvg-chno="457",生态环境
+http://192.168.100.1:4022/rtp/239.77.1.201:5146
+#EXTINF:-1 tvg-id="db0c55e68fcbe6b39a205e0a7e54fb9a" tvg-chno="458",环球旅游
+http://192.168.100.1:4022/rtp/239.77.1.202:5146
+#EXTINF:-1 tvg-id="1522bbc44c124cdb7cc944550ad690cb" tvg-chno="459",车迷频道
+http://192.168.100.1:4022/rtp/239.77.1.203:5146
+#EXTINF:-1 tvg-id="40d8a9897778f9194e76399868272a38" tvg-chno="460",中华特产
+http://192.168.100.1:4022/rtp/239.77.1.204:5146
+#EXTINF:-1 tvg-id="0f3e9be3615049271c188e0f0d189da9" tvg-chno="461",重庆汽摩
+http://192.168.100.1:4022/rtp/239.77.1.205:5146
+#EXTINF:-1 tvg-id="b0356c793e0db12de9f0e6296d8e5f6b" tvg-chno="462",深圳宝安
+http://192.168.100.1:4022/rtp/239.77.1.206:5146
+#EXTINF:-1 tvg-id="2ea3a342cd2d52b8be6d3124b71ec8f2" tvg-chno="463",湖南茶频道高清
+http://192.168.100.1:4022/rtp/239.77.1.207:5146
+#EXTINF:-1 tvg-id="752be075f3faa978dab57b5d19223c7c" tvg-chno="464",先锋乒羽
+http://192.168.100.1:4022/rtp/239.77.1.208:5146
+#EXTINF:-1 tvg-id="4d9a62dfcf41646fd0d25b4def2f4fb9" tvg-chno="465",多屏直播(OUT)
+http://192.168.100.1:4022/rtp/239.77.1.209:5146
+#EXTINF:-1 tvg-id="9d82cbe3d46752222f88d43fde170c2b" tvg-chno="466",重庆卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.210:5146
+#EXTINF:-1 tvg-id="0b54da973aaa9d57361846b14cd7da3e" tvg-chno="469",东南卫视
+http://192.168.100.1:4022/rtp/239.77.1.213:5146
+#EXTINF:-1 tvg-id="a3d27ec1a65afa3685630cad0d7cdf79" tvg-chno="470",河北卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.214:5146
+#EXTINF:-1 tvg-id="6e6c85289e7596d18824b0bbe6f15215" tvg-chno="471",四川卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.215:5146
+#EXTINF:-1 tvg-id="e98518f91f60d27d625d29ff73b32df7" tvg-chno="472",上海纪实高清
+http://192.168.100.1:4022/rtp/239.77.1.216:5146
+#EXTINF:-1 tvg-id="8934fe7e4149e425348a36a219af991c" tvg-chno="473",金鹰纪实高清
+http://192.168.100.1:4022/rtp/239.77.1.217:5146
+#EXTINF:-1 tvg-id="9d27639746a9b041cc769fadd960bc74" tvg-chno="474",东方卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.218:5146
+#EXTINF:-1 tvg-id="f76d9a5a3c69ec3a37937f32a5846432" tvg-chno="475",江西卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.219:5146
+#EXTINF:-1 tvg-id="b17b7290343002bed9b6f0df175c8633" tvg-chno="477",贵州卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.221:5146
+#EXTINF:-1 tvg-id="fc3f082542c50c4d2ac44d6fd25e5f54" tvg-chno="478",中国教育1高清
+http://192.168.100.1:4022/rtp/239.77.1.222:5146
+#EXTINF:-1 tvg-id="92d8b68819db8aa20000faebddff2a93" tvg-chno="479",深圳龙岗高清
+http://192.168.100.1:4022/rtp/239.77.1.223:5146
+#EXTINF:-1 tvg-id="1fa38b8dc00c23ed4a5b578358ad71a6" tvg-chno="480",深圳东部高清
+http://192.168.100.1:4022/rtp/239.77.1.224:5146
+#EXTINF:-1 tvg-id="1c0b3a42748193913bfcc1a1c08ab3db" tvg-chno="481",深圳宝安第一课
+http://192.168.100.1:4022/rtp/239.77.1.225:5146
+#EXTINF:-1 tvg-id="b1a146b9601eebf61bc8f510e33fa7a8" tvg-chno="485",河南卫视高清
+http://192.168.100.1:4022/rtp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="38136dc5ca892ab043a8e709a28ed6e2" tvg-chno="486",珠海1
+http://192.168.100.1:4022/rtp/239.77.1.230:5146
+#EXTINF:-1 tvg-id="29e93156013e23cee7b25d46be0794bb" tvg-chno="487",珠海2
+http://192.168.100.1:4022/rtp/239.77.1.231:5146
+#EXTINF:-1 tvg-id="ae604c050edd2fa5468ee91b97b59f05" tvg-chno="488",惠州1高清
+http://192.168.100.1:4022/rtp/239.77.1.232:5146
+#EXTINF:-1 tvg-id="8ac4a163062027a6e04cbaa313cdc0a8" tvg-chno="489",惠州2高清
+http://192.168.100.1:4022/rtp/239.77.1.233:5146
+#EXTINF:-1 tvg-id="79451a31095efccb0443c36ae7c898fd" tvg-chno="490",深圳九屏同播
+http://192.168.100.1:4022/rtp/239.77.1.234:5146
+#EXTINF:-1 tvg-id="2ea78fb2db2d83ba110555686f61dd14" tvg-chno="492",广东综艺高清4K
+http://192.168.100.1:4022/rtp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="2ea78fb2db2d83ba110555686f61dd14" tvg-chno="493",广东综艺高清4K
+http://192.168.100.1:4022/rtp/239.77.1.237:5146
+#EXTINF:-1 tvg-id="188d9e52a318f853cdc88e72e8e51960" tvg-chno="494",央视戏曲高清
+http://192.168.100.1:4022/rtp/239.77.1.238:5146
+#EXTINF:-1 tvg-id="0025bce32b0c620072aa3476f910df18" tvg-chno="495",央视音乐高清
+http://192.168.100.1:4022/rtp/239.77.1.239:5146
+#EXTINF:-1 tvg-id="596225eca223c9bc5feb08d6c5d1b362" tvg-chno="498",深圳财经高清
+http://192.168.100.1:4022/rtp/239.77.1.242:5146
+#EXTINF:-1 tvg-id="b107001f40eef7725a0e559ec959a305" tvg-chno="499",深圳娱乐高清
+http://192.168.100.1:4022/rtp/239.77.1.243:5146
+#EXTINF:-1 tvg-id="1c1902aeec7f34701bafdea37f29afe9" tvg-chno="500",深圳少儿高清
+http://192.168.100.1:4022/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-id="d84528c7361e3d0ab1a4284c58a67a00" tvg-chno="503",深圳众创高清
+http://192.168.100.1:4022/rtp/239.77.1.247:5146
+#EXTINF:-1 tvg-id="edddeaa70302d4b50c4ddc6e9946472f" tvg-chno="505",中国交通高清·广东
+http://192.168.100.1:4022/rtp/239.77.1.249:5146
+#EXTINF:-1 tvg-id="73e22cb19e7304718276bc213e9c93ea" tvg-chno="514",肇庆综合高清
+http://192.168.100.1:4022/rtp/239.253.43.1:5146
+#EXTINF:-1 tvg-id="75379373038741d58ec05cc80e257090" tvg-chno="515",肇庆生活高清
+http://192.168.100.1:4022/rtp/239.253.43.2:5146
+#EXTINF:-1 tvg-id="54479311b42eb633f9559b3e7fdafd2e" tvg-chno="516",肇庆综合
+http://192.168.100.1:4022/rtp/239.253.43.3:5146
+#EXTINF:-1 tvg-id="b97d5b2523b18b1a45911e84d8f7fe4b" tvg-chno="517",肇庆生活
+http://192.168.100.1:4022/rtp/239.253.43.4:5146
+#EXTINF:-1 tvg-id="d05d4bad356fb5d2ea73430c0fa6509f" tvg-chno="518",央视怀旧剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.5:5146
+#EXTINF:-1 tvg-id="b3c3388b76363a8892563af6ee1f4c5d" tvg-chno="519",央视风云音乐高清
+http://192.168.100.1:4022/rtp/239.253.43.6:5146
+#EXTINF:-1 tvg-id="5936c257ae842a1fe1d22c4a17d983c4" tvg-chno="520",央视世界地理高清
+http://192.168.100.1:4022/rtp/239.253.43.7:5146
+#EXTINF:-1 tvg-id="e2e60148425d72fe95ef4e53ebcf5636" tvg-chno="521",央视女性时尚高清
+http://192.168.100.1:4022/rtp/239.253.43.8:5146
+#EXTINF:-1 tvg-id="1d0ede5431b5f57db2dae76760c1a7e5" tvg-chno="522",央视兵器科技高清
+http://192.168.100.1:4022/rtp/239.253.43.9:5146
+#EXTINF:-1 tvg-id="f6306970dab38064fc7550b4ebd2c4d9" tvg-chno="523",央视电视指南高清
+http://192.168.100.1:4022/rtp/239.253.43.10:5146
+#EXTINF:-1 tvg-id="1ee238f112c33906fe58198c0a782e6e" tvg-chno="524",央视台球高清
+http://192.168.100.1:4022/rtp/239.253.43.11:5146
+#EXTINF:-1 tvg-id="5ece5601bd49ae02ce983b9f14cd2795" tvg-chno="525",央视高尔夫高清
+http://192.168.100.1:4022/rtp/239.253.43.12:5146
+#EXTINF:-1 tvg-id="361fb02593d1498a0fdd1221dac55a27" tvg-chno="526",央视文化精品高清
+http://192.168.100.1:4022/rtp/239.253.43.13:5146
+#EXTINF:-1 tvg-id="dd52e6d7e8e7ceb99f93f28f98a18e80" tvg-chno="527",央视风云足球高清
+http://192.168.100.1:4022/rtp/239.253.43.14:5146
+#EXTINF:-1 tvg-id="2d2319d2188be0a3bbabcd11903bfd70" tvg-chno="528",央视第一剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.15:5146
+#EXTINF:-1 tvg-id="15c27c8d355e32bc03117ca6fb0c4ddb" tvg-chno="529",央视风云剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.16:5146
+#EXTINF:-1 tvg-id="7df30f727f0e9a46825928c409276f73" tvg-chno="530",央视财经高清
+http://192.168.100.1:4022/rtp/239.253.43.17:5146
+#EXTINF:-1 tvg-id="1d0ede5431b5f57db2dae76760c1a7e5" tvg-chno="531",央视兵器科技高清
+http://192.168.100.1:4022/rtp/239.253.43.18:5146
+#EXTINF:-1 tvg-id="f6306970dab38064fc7550b4ebd2c4d9" tvg-chno="532",央视电视指南高清
+http://192.168.100.1:4022/rtp/239.253.43.19:5146
+#EXTINF:-1 tvg-id="dd52e6d7e8e7ceb99f93f28f98a18e80" tvg-chno="533",央视风云足球高清
+http://192.168.100.1:4022/rtp/239.253.43.20:5146
+#EXTINF:-1 tvg-id="1ee238f112c33906fe58198c0a782e6e" tvg-chno="534",央视台球高清
+http://192.168.100.1:4022/rtp/239.253.43.21:5146
+#EXTINF:-1 tvg-id="5ece5601bd49ae02ce983b9f14cd2795" tvg-chno="535",央视高尔夫高清
+http://192.168.100.1:4022/rtp/239.253.43.22:5146
+#EXTINF:-1 tvg-id="e2e60148425d72fe95ef4e53ebcf5636" tvg-chno="536",央视女性时尚高清
+http://192.168.100.1:4022/rtp/239.253.43.23:5146
+#EXTINF:-1 tvg-id="5936c257ae842a1fe1d22c4a17d983c4" tvg-chno="537",央视世界地理高清
+http://192.168.100.1:4022/rtp/239.253.43.24:5146
+#EXTINF:-1 tvg-id="d05d4bad356fb5d2ea73430c0fa6509f" tvg-chno="538",央视怀旧剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.25:5146
+#EXTINF:-1 tvg-id="15c27c8d355e32bc03117ca6fb0c4ddb" tvg-chno="539",央视风云剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.26:5146
+#EXTINF:-1 tvg-id="361fb02593d1498a0fdd1221dac55a27" tvg-chno="540",央视文化精品高清
+http://192.168.100.1:4022/rtp/239.253.43.27:5146
+#EXTINF:-1 tvg-id="2d2319d2188be0a3bbabcd11903bfd70" tvg-chno="541",央视第一剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.28:5146
+#EXTINF:-1 tvg-id="b3c3388b76363a8892563af6ee1f4c5d" tvg-chno="542",央视风云音乐高清
+http://192.168.100.1:4022/rtp/239.253.43.29:5146
+#EXTINF:-1 tvg-id="5c1bed6c8ffee31c07ab768b84b16dc4" tvg-chno="543",汕头综合
+http://192.168.100.1:4022/rtp/239.253.43.30:5146
+#EXTINF:-1 tvg-id="c879de451d9d5e21e2c84b3b94740ef0" tvg-chno="544",清远综合
+http://192.168.100.1:4022/rtp/239.253.43.31:5146
+#EXTINF:-1 tvg-id="48a9399c69394a42acd481d362a65347" tvg-chno="545",清远公共
+http://192.168.100.1:4022/rtp/239.253.43.32:5146
+#EXTINF:-1 tvg-id="1fe5b0b57932c020101644d2fdc46af7" tvg-chno="546",清远综合高清
+http://192.168.100.1:4022/rtp/239.253.43.33:5146
+#EXTINF:-1 tvg-id="d94046eebd96e9920715f927d554398a" tvg-chno="547",清远公共高清
+http://192.168.100.1:4022/rtp/239.253.43.34:5146
+#EXTINF:-1 tvg-id="940997d80990c1215bfe9ffeb06d25f7" tvg-chno="548",海南卫视高清
+http://192.168.100.1:4022/rtp/239.253.43.35:5146
+#EXTINF:-1 tvg-id="7962b09479b09eefb1c4b6ac2d1c7aee" tvg-chno="549",广西卫视高清
+http://192.168.100.1:4022/rtp/239.253.43.36:5146
+#EXTINF:-1 tvg-id="8ef3fa21370ac3b44e8a4de26a28d91c" tvg-chno="550",云南卫视高清
+http://192.168.100.1:4022/rtp/239.253.43.37:5146
+#EXTINF:-1 tvg-id="065e4ab1a04d7f3f9d558a9420bb9abf" tvg-chno="551",网络棋牌
+http://192.168.100.1:4022/rtp/239.253.43.38:5146
+#EXTINF:-1 tvg-id="d2808ac68f2f1f9b4a2fbc440222ccc7" tvg-chno="552",优优宝贝
+http://192.168.100.1:4022/rtp/239.253.43.39:5146
+#EXTINF:-1 tvg-id="cbbf0b9ea9b95385927f74e7052a7e82" tvg-chno="553",中华美食高清
+http://192.168.100.1:4022/rtp/239.253.43.40:5146
+#EXTINF:-1 tvg-id="1522bbc44c124cdb7cc944550ad690cb" tvg-chno="554",车迷频道
+http://192.168.100.1:4022/rtp/239.253.43.41:5146
+#EXTINF:-1 tvg-id="374b10ab0d8284cb4812aa693bc6fa59" tvg-chno="555",生态环境
+http://192.168.100.1:4022/rtp/239.253.43.42:5146
+#EXTINF:-1 tvg-id="d1b555bae5a29b6b1f70be84510f73e4" tvg-chno="556",汕头经济
+http://192.168.100.1:4022/rtp/239.253.43.43:5146
+#EXTINF:-1 tvg-id="2195ea244b7af696d02329408d08c308" tvg-chno="557",汕头文体
+http://192.168.100.1:4022/rtp/239.253.43.44:5146
+#EXTINF:-1 tvg-id="fa95740725a175eb3784be101d84b2f7" tvg-chno="558",汕头综合高清
+http://192.168.100.1:4022/rtp/239.253.43.45:5146
+#EXTINF:-1 tvg-id="db6e8bdce17b1598e03671d356e99619" tvg-chno="559",汕头经济高清
+http://192.168.100.1:4022/rtp/239.253.43.46:5146
+#EXTINF:-1 tvg-id="92fd5a29a705472259399725468dc792" tvg-chno="560",汕头文体高清
+http://192.168.100.1:4022/rtp/239.253.43.47:5146
+#EXTINF:-1 tvg-id="b6eba7d03abf91ac3fc2382ca0541aa8" tvg-chno="561",佛山公共
+http://192.168.100.1:4022/rtp/239.253.43.48:5146
+#EXTINF:-1 tvg-id="6987faa5c5488520888adb98b5f50ee1" tvg-chno="562",佛山南海
+http://192.168.100.1:4022/rtp/239.253.43.49:5146
+#EXTINF:-1 tvg-id="fee75eb56eb6aa87ed70e76a5a871971" tvg-chno="563",佛山顺德
+http://192.168.100.1:4022/rtp/239.253.43.50:5146
+#EXTINF:-1 tvg-id="4a5a0fcb0c003334f730d194a0f9b23e" tvg-chno="564",佛山影视
+http://192.168.100.1:4022/rtp/239.253.43.51:5146
+#EXTINF:-1 tvg-id="d5ecf7fa67ab388365e26abf61837ece" tvg-chno="565",佛山综合
+http://192.168.100.1:4022/rtp/239.253.43.52:5146
+#EXTINF:-1 tvg-id="71f8fc625fca20b771ea30d8e70b8575" tvg-chno="566",佛山公共高清
+http://192.168.100.1:4022/rtp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="8b282cac74987a3fec2263e448aee940" tvg-chno="567",佛山南海高清
+http://192.168.100.1:4022/rtp/239.253.43.54:5146
+#EXTINF:-1 tvg-id="d2db80e5dd47e466ae56da9cd019fd2a" tvg-chno="568",佛山顺德高清
+http://192.168.100.1:4022/rtp/239.253.43.55:5146
+#EXTINF:-1 tvg-id="58f2ab4f0352cbe06fd2330dfb82e080" tvg-chno="569",佛山影视高清
+http://192.168.100.1:4022/rtp/239.253.43.56:5146
+#EXTINF:-1 tvg-id="e0a3a79c7cf8f58944fc5fa64c847b88" tvg-chno="570",佛山综合高清
+http://192.168.100.1:4022/rtp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="ef77060b6688669b93085cd3c7197227" tvg-chno="571",证券服务
+http://192.168.100.1:4022/rtp/239.253.43.58:5146
+#EXTINF:-1 tvg-id="2bfdf97d309bc7fcc43329f3a74464ef" tvg-chno="572",中山综合
+http://192.168.100.1:4022/rtp/239.253.43.59:5146
+#EXTINF:-1 tvg-id="4a104f091eaeeab59a27f72c1c20aeb1" tvg-chno="573",中山公共
+http://192.168.100.1:4022/rtp/239.253.43.60:5146
+#EXTINF:-1 tvg-id="8543a0fcd05cf336255db14ea9515434" tvg-chno="574",中山教育
+http://192.168.100.1:4022/rtp/239.253.43.61:5146
+#EXTINF:-1 tvg-id="44e8df752cdd47b2be8fef4c8b2875c8" tvg-chno="575",中山综合高清
+http://192.168.100.1:4022/rtp/239.253.43.62:5146
+#EXTINF:-1 tvg-id="054878ea88c5a4dadb1c622c6ab6877c" tvg-chno="576",中山公共高清
+http://192.168.100.1:4022/rtp/239.253.43.63:5146
+#EXTINF:-1 tvg-id="edba75952751521ffdb84dcdd21af428" tvg-chno="577",中山教育高清
+http://192.168.100.1:4022/rtp/239.253.43.64:5146
+#EXTINF:-1 tvg-id="be8dfbf8c6d31bddbea2a0480ab3b163" tvg-chno="579",广州综合
+http://192.168.100.1:4022/rtp/239.253.43.66:5146
+#EXTINF:-1 tvg-id="bc53aa4ab0a4d30726b532926f372931" tvg-chno="580",广州新闻
+http://192.168.100.1:4022/rtp/239.253.43.67:5146
+#EXTINF:-1 tvg-id="44159402dfa765cfd3893b53cb1a5214" tvg-chno="581",广州影视
+http://192.168.100.1:4022/rtp/239.253.43.68:5146
+#EXTINF:-1 tvg-id="283ff7c344e14c5df8d5d5cc60824301" tvg-chno="582",广州法治
+http://192.168.100.1:4022/rtp/239.253.43.69:5146
+#EXTINF:-1 tvg-id="7f9e8f53513ab3c7df61b32bf9b8ee4a" tvg-chno="583",广州竞赛
+http://192.168.100.1:4022/rtp/239.253.43.70:5146
+#EXTINF:-1 tvg-id="b9560772a116907738c30da90b90789e" tvg-chno="584",广州综合高清
+http://192.168.100.1:4022/rtp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="35168dd6624332abebd29edeee6d33f8" tvg-chno="585",广州新闻高清
+http://192.168.100.1:4022/rtp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="94f2cc698fd0f1fa5f0bd0665efb3953" tvg-chno="586",广州影视高清
+http://192.168.100.1:4022/rtp/239.253.43.73:5146
+#EXTINF:-1 tvg-id="d9582294fe95056d8dcab92a6c4a3b8d" tvg-chno="587",广州法治高清
+http://192.168.100.1:4022/rtp/239.253.43.74:5146
+#EXTINF:-1 tvg-id="8eeb72b0b9383dfbe72f2a5be632b7b1" tvg-chno="588",广州竞赛高清
+http://192.168.100.1:4022/rtp/239.253.43.75:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="589",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.76:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="590",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.77:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="591",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.78:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="592",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.79:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="593",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.80:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="594",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.81:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="602",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.89:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="603",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.90:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="604",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.91:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="605",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.92:5146
+#EXTINF:-1 tvg-id="9428b256ff25b04494ce9b32feb10e87" tvg-chno="606",广州课堂
+http://192.168.100.1:4022/rtp/239.253.43.93:5146
+#EXTINF:-1 tvg-id="b26bbe4b70101691d77ee4eeb295111f" tvg-chno="607",每日影院高清
+http://192.168.100.1:4022/rtp/239.253.43.94:5146
+#EXTINF:-1 tvg-id="d0c09c84aaf15be75b53e23e4947ddc8" tvg-chno="608",风尚生活高清
+http://192.168.100.1:4022/rtp/239.253.43.95:5146
+#EXTINF:-1 tvg-id="24a0ecc293a37d15e3c9d73d4eb579d7" tvg-chno="609",幸福剧场高清
+http://192.168.100.1:4022/rtp/239.253.43.96:5146
+#EXTINF:-1 tvg-id="e0c28653aadd7a5a848e46b2ace6cd8f" tvg-chno="610",幸福娱乐高清
+http://192.168.100.1:4022/rtp/239.253.43.97:5146
+#EXTINF:-1 tvg-id="cc7493fd3e70b21be803d40f030182b5" tvg-chno="611",天元围棋
+http://192.168.100.1:4022/rtp/239.253.43.98:5146
+#EXTINF:-1 tvg-id="216857eae9c2bc94a989123bcf1c4ad5" tvg-chno="612",广州都市高清4K
+http://192.168.100.1:4022/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="8ef3fa21370ac3b44e8a4de26a28d91c" tvg-chno="613",云南卫视高清
+http://192.168.100.1:4022/rtp/239.253.43.100:5146
+#EXTINF:-1 tvg-id="940997d80990c1215bfe9ffeb06d25f7" tvg-chno="614",海南卫视高清
+http://192.168.100.1:4022/rtp/239.253.43.101:5146
+#EXTINF:-1 tvg-id="d0cfd02696d9ac2558c9b49fa4f61ef1" tvg-chno="615",东莞综合
+http://192.168.100.1:4022/rtp/239.253.43.102:5146
+#EXTINF:-1 tvg-id="17ef666f56a770456838839ed63e6361" tvg-chno="616",东莞生活
+http://192.168.100.1:4022/rtp/239.253.43.103:5146
+#EXTINF:-1 tvg-id="def379e66c80ef06e2d3db5a8fa8942f" tvg-chno="617",东莞综合高清
+http://192.168.100.1:4022/rtp/239.253.43.104:5146
+#EXTINF:-1 tvg-id="aba270d2d9d36f647b0d9fc46c61528b" tvg-chno="618",东莞生活高清
+http://192.168.100.1:4022/rtp/239.253.43.105:5146
+#EXTINF:-1 tvg-id="f2c79c75b9a2a63b0936702b117e51ab" tvg-chno="678",暂无信号
+http://192.168.100.1:4022/rtp/239.253.43.165:5146
+#EXTINF:-1 tvg-id="5ae80fb4a0a0f2a6f3ec45792f6fffb4" tvg-chno="707",云浮文旅
+http://192.168.100.1:4022/rtp/239.253.43.194:5146
+#EXTINF:-1 tvg-id="c40510ca1315ddd364f4e31fc101dc60" tvg-chno="708",云浮综合
+http://192.168.100.1:4022/rtp/239.253.43.195:5146
+#EXTINF:-1 tvg-id="8680b965a8f4868c08d93f5fe2ee79d5" tvg-chno="709",央视新闻高清
+http://192.168.100.1:4022/rtp/239.253.43.196:5146
+#EXTINF:-1 tvg-id="17ac00aeaabeb8657d64623d84670fac" tvg-chno="713",央视英闻-A
+http://192.168.100.1:4022/rtp/239.253.43.200:5146
+#EXTINF:-1 tvg-id="879ed41de8288737c0d80c72dbd6676a" tvg-chno="714",央视英闻-P
+http://192.168.100.1:4022/rtp/239.253.43.201:5146
+#EXTINF:-1 tvg-id="3591bb69590e0382f5eaf3a8e78c9af3" tvg-chno="726",河源综合高清
+http://192.168.100.1:4022/rtp/239.253.43.213:5146
+#EXTINF:-1 tvg-id="2d92500f11dca62b66c19f677794bcb0" tvg-chno="727",河源公共高清
+http://192.168.100.1:4022/rtp/239.253.43.214:5146
+#EXTINF:-1 tvg-id="15a6a572a6ddbf6fec46d19baed6eef4" tvg-chno="728",河源综合
+http://192.168.100.1:4022/rtp/239.253.43.215:5146
+#EXTINF:-1 tvg-id="4c1dacf1c1d9f837b94e48ff1b088b31" tvg-chno="729",河源公共
+http://192.168.100.1:4022/rtp/239.253.43.216:5146
